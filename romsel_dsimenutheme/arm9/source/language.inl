@@ -75,6 +75,7 @@ STRING(CANNOT_LAUNCH_HB_ON_3DS, "This homebrew cannot be\nlaunched on 3DS consol
 STRING(CANNOT_LAUNCH_WITH_UI, "Cannot launch this title.\nPlease switch to a different user\ninterface, then try again.")
 STRING(CANNOT_LAUNCH_CORRUPT_TITLE_SD, "Cannot launch this title.\nEither the title or SD Card\nis corrupted.")
 STRING(CANNOT_LAUNCH_CORRUPT_TITLE_MICRO_SD, "Cannot launch this title.\nEither the title or microSD Card\nis corrupted.")
+STRING(NDZ_ONLY_FOR_DSPICO_IR, "NDZ files can only be launched\nfrom the DSpico IR flashcard.")
 STRING(PRESS_B_RETURN, "Press \\B to return.")
 STRING(BAD_CLUSTER_SIZE, "Your SD card is not formatted\nusing 32KB clusters, this causes\nsome games to load very slowly.\nIt's recommended to reformat your\nSD card using 32KB clusters.")
 
@@ -171,6 +172,7 @@ STRING(DSIWAREBOOTER, "DSiWare Booter")
 STRING(GAME_LOADER, "Game Loader")
 STRING(SET_AS_INTERNET_BROWSER, "Set as Internet Browser")
 STRING(DONE, "Done!")
+STRING(SLOT1_MODE, "Slot-1 Mode")
 STRING(REMAP_BUTTONS, "Remap Buttons")
 STRING(X_CHEATS_B_BACK, "\\X Cheats  \\B Back")
 
@@ -192,6 +194,8 @@ STRING(NOT_USED, "Not Used")
 STRING(DSI_MODE, "DSi mode")
 STRING(DS_MODE, "DS mode")
 STRING(KERNEL, "Kernel")
+STRING(MINIMAL, "Minimal")
+STRING(FULL, "Full")
 
 // Languages
 STRING(CHINESE, "Chinese")
